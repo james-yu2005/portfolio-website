@@ -3,21 +3,21 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "/src/assets/images/parts.png",
+        "src": "/public/parts.png",
         "title": "Goose Puzzle",
         "description": "3D Goose modelled on SolidWorks with physical 3D printed pieces and IKEA-like manual for easy assembly ",
         "links":"https://github.com/james-yu2005/Goose-puzzle"
       },
       {
         "id": "2",
-        "src": "/src/assets/images/rubber.png",
+        "src": "/public/rubber.png",
         "title": "Table Tennis Webscraper",
         "description": "Table Tennis Webscraper that scrapes websites for sales and orders them into Csv and Excel files",
         "links":"https://github.com/james-yu2005/TableTennisWebscraper"
       },
       {
         "id": "3",
-        "src": "/src/assets/images/diagnostic.png",
+        "src": "/public/diagnostic.png",
         "title": "Diagnostic Test ",
         "description": "C++ program that sorts patient information stored in an external textfile according to user-input",
         "links":"https://github.com/james-yu2005/Diagnostic-test-analysis"
