@@ -10,7 +10,7 @@ import Navbar from "./Pages/Navbar"
 
 import Contactme from './Pages/Contactme';
 import Experience from './Pages/Experience';
-import blob from './components/ui/blob';
+import blob from '/src/components/ui/blob';
 
 
 
