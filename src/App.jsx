@@ -13,6 +13,7 @@ import Experience from './Pages/Experience';
 import blob from './components/ui/blob';
 
 
+
 function App() {
   const [count, setCount] = useState(0)
 
@@ -28,13 +29,13 @@ function App() {
         Hi, my name is James Yu
       </p>
       <p className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
-        I'm currently a biomedical engineering student at the University of Waterloo whos interested in engineering solutions in medical research and front end development
+        I'm currently a biomedical engineering student at the University of Waterloo who's interested in engineering solutions in medical research and front end development
       </p>
     </WavyBackground>
     </div>
         
       <MyPortfolio/>
-      <MyPortfolio2/>
+      <Experience/>
       
       <AboutMe/>
       <Contactme/>
