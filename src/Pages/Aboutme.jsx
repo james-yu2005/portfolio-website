@@ -19,10 +19,10 @@ export default function AboutMe() {
             <h1 className="skills-section--heading">About Me</h1>
             <br></br>
             <p className="hero--section-description">
-              I'm a motivated individual interested mastering full-stack development with current experience in C++, Python, Java, MATLAB, MySQL, HTML/CSS, Javascript, React.js, Node.js, Express.js, Next.js, and Tailwind CSS. I'm also passionate about medical research,
+              I'm a motivated individual interested in mastering full-stack development with current experience in C++, Python, Java, MATLAB, MySQL, HTML/CSS, Javascript, React.js, Node.js, Express.js, Next.js, MongoDB, and Tailwind CSS. I'm also passionate about medical research,
                specifically that of vaccine development and drug delivery in research. Outside of academics, I am active in my school community as the social representative
                 of my cohort and an executive on the University of Waterloo Table Tennis
-                 Team. In my free time, you'll catch me going to the gym, playing table 
+                 Team. In my free time, I enjoy hitting the gym, playing table 
                  tennis with friends, and binging Netflix shows. 
               
             </p>
