@@ -80,7 +80,7 @@ export default function MyPortfolio() {
               </p>
             </div>
           </div>
-
+      
           <div className="portfolio--section--card">
             <div className="portfolio--section--img">
               <img src={image}  alt="Placeholder" />
@@ -116,6 +116,8 @@ export default function MyPortfolio() {
             
           
       </div>
+
+   <div className='section--two'>
       <div className="portfolio--container-box">
         
         <div>
@@ -123,6 +125,7 @@ export default function MyPortfolio() {
         </div>
       </div>
       <div className="portfolio--section--container">
+        
         
       <div className="portfolio--section--card">
             <div className="portfolio--section--img">
@@ -217,7 +220,7 @@ export default function MyPortfolio() {
             </div>
           </div>
        
-        
+          </div>
             
           
       </div>
