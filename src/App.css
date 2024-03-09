@@ -111,7 +111,8 @@
   
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+ 
+  
   margin-top: 100px;
   margin-bottom: -10px;
 }
@@ -128,7 +129,7 @@
   align-items: center;
   justify-content: center;
   gap: 75px;
-  width: 100%;
+ 
   
  
 }
@@ -137,7 +138,8 @@
   
 }
 .portfolio--section--img > img {
-  width: 100%;
+  
+  width: 430px;
   height: 230px;
   border-radius: 12px;
   border: 1.2px solid rgb(133, 130, 130);
@@ -169,7 +171,8 @@
   margin-left: 10px;
   margin-top: -30px;
   font-weight: 500;
-  
+  justify-content: center;
+  justify-content: space-between;
  
 }
 .portfolio--section--title {
@@ -183,6 +186,8 @@
 }
 .text-md{
   color: #7b7979;
+  justify-content: center;
+  justify-content: space-between;
 }
 .portfolio--link {
   text-decoration: none;
@@ -220,7 +225,7 @@
 .skills--section--container {
   display: grid;
   justify-content: center;
-  align-items: flex-start;
+ justify-content: space-between;
   gap: 42.6px;
   grid-template-columns: repeat(4, 1fr);
   margin-left: -19px;
@@ -238,6 +243,8 @@
   padding: 20px;
   flex-direction: column;
   align-items: flex-start;
+  justify-content: center;
+ justify-content: space-between;
   
   flex: 1 0 0;
   width: 435px;
@@ -256,6 +263,8 @@
   background: #fff;
   width: 100%;
   box-shadow: 0 0 16px 0 rgba(147, 112,216, 1);
+ 
+ justify-content: space-between;
 }
 .skills--section--card--content {
   display: flex;
@@ -280,6 +289,8 @@
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin-bottom: -200px;
   margin-top: -38px;
+  justify-content: center;
+  justify-content: space-between;
 }
 /* Skills Style Ends */
 
