@@ -1,5 +1,6 @@
-import rubber from '/public/static/images/rubber.png'
-
+import uxui from '/public/static/images/uxui.png'
+import biotron from '/public/static/images/biotron.png'
+import rocket from '/public/static/images/rocket.png'
 export default function Experience() {
   return (
     <section className="skills--section" id="Experience">
@@ -11,7 +12,7 @@ export default function Experience() {
     
       <div  className="skills--section--card">
             <div className="skills--section--img">
-              <img src={rubber} alt="Product Chain" />
+              <img src={biotron} alt="Product Chain" />
             </div>
             <div className="skills--section--card--content">
               <h3 className="skills--section--title">Enable Team Member - UW Biomechatronics</h3>
@@ -22,7 +23,7 @@ export default function Experience() {
           
           <div  className="skills--section--card">
             <div className="skills--section--img">
-              <img src={rubber} alt="Product Chain" />
+              <img src={rocket} alt="Product Chain" />
             </div>
             <div className="skills--section--card--content">
               <h3 className="skills--section--title">Payload Team Member - UW Rocketry </h3>
@@ -35,7 +36,7 @@ export default function Experience() {
       
           <div  className="skills--section--card">
             <div className="skills--section--img">
-              <img src={rubber} alt="Product Chain" />
+              <img src={uxui} alt="Product Chain" />
             </div>
             <div className="skills--section--card--content">
               <h3 className="skills--section--title">UX/UI Designer - TrueNorthTTC </h3>
