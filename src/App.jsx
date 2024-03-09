@@ -29,7 +29,7 @@ function App() {
         Hi, my name is James Yu
       </p>
       <p className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
-        I'm currently a biomedical engineering student at the University of Waterloo who's interested in engineering solutions in medical research and front end development
+        I'm currently a biomedical engineering student at the University of Waterloo who's interested in engineering solutions in medical research and full stack development
       </p>
     </WavyBackground>
     </div>
