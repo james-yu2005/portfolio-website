@@ -25,7 +25,8 @@ export default function MyPortfolio() {
                 <p className="text-md">C++ algorithm that utlizes formulas for ultrasound amode beamforming to transform datasets into Excel graphs</p>
               </div>
               <p className="text-sm portfolio--link">
-                <svg
+              <a href='https://github.com/james-yu2005/Ultrasound-Amode-Beamforming' target='_blank'>
+                <svg 
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
                   height="16"
@@ -40,6 +41,7 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
+                </a>
               </p>
             </div>
           </div>
@@ -54,7 +56,8 @@ export default function MyPortfolio() {
                 <p className="text-md">Dynamic DisneyPlus Clone built with React.js, Node.js, Express.js, Tailwind CSS, and customized homepage</p>
               </div>
               <p className="text-sm portfolio--link">
-                <svg
+              <a href='https://james-home.vercel.app' target='_blank'>
+                <svg  
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
                   height="16"
@@ -69,6 +72,7 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
+                </a>
               </p>
             </div>
           </div>
@@ -83,7 +87,8 @@ export default function MyPortfolio() {
                 <p className="text-md">Glove prototype designed for patients with hypoesthesia that alerts users of critical temperature thresholds</p>
               </div>
               <p className="text-sm portfolio--link">
-                <svg
+              <a href='https://github.com/james-yu2005/Biothermal-Gloves' target='_blank'>
+                <svg 
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
                   height="16"
@@ -98,6 +103,7 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
+                </a>
               </p>
             </div>
           </div>
