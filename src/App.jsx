@@ -5,7 +5,7 @@ import React from "react";
 import MyPortfolio from './Pages/MyPortfolio'
 import { WavyBackground } from "/src/components/ui/wavy-background";
 import AboutMe from './Pages/Aboutme';
-import MyPortfolio2 from './Pages/MyPortfolio2';
+
 import Navbar from "./Pages/Navbar"
 
 import Contactme from './Pages/Contactme';
