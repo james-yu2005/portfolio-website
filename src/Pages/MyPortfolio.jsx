@@ -1,6 +1,6 @@
-import amode from '/public/static/images/amode.png'
-import disney from '/public/static/images/disney.png'
-import design from '/public/static/images/design.png'
+import amode from '/static/images/amode.png'
+import disney from '/static/images/disney.png'
+import image from '/static/images/design.png'
 export default function MyPortfolio() {
   return (
     <section className="portfolio--section" id="MyPortfolio">
@@ -79,7 +79,7 @@ export default function MyPortfolio() {
 
           <div className="portfolio--section--card">
             <div className="portfolio--section--img">
-              <img src={design}  alt="Placeholder" />
+              <img src={image}  alt="Placeholder" />
             </div>
             <div className="portfolio--section--card--content">
               <div>
