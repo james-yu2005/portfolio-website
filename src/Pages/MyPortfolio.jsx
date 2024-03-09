@@ -1,6 +1,6 @@
 import amode from '/public/static/images/amode.png'
 import disney from '/public/static/images/disney.png'
-import image from '/public/static/images/design.png'
+import image from '/public/static/images/image.png'
 export default function MyPortfolio() {
   return (
     <section className="portfolio--section" id="MyPortfolio">
@@ -53,7 +53,7 @@ export default function MyPortfolio() {
             <div className="portfolio--section--card--content">
               <div>
                 <h3 className="portfolio--section--title">Disney+ 2.0</h3>
-                <p className="text-md">Dynamic DisneyPlus Clone built with React.js, Node.js, Express.js, Tailwind CSS, and customized homepage</p>
+                <p className="text-md">Dynamic DisneyPlus Clone built with React.js, Node.js, Express.js, Tailwind CSS, API connection, and customized homepage</p>
               </div>
               <p className="text-sm portfolio--link">
               <a href='https://james-home.vercel.app' target='_blank'>
