@@ -494,3 +494,70 @@ body {
   background-color: white;
   color: gray;
 }
+
+@media only screen and (max-width: 1200px) {
+  .btn-outline-primary {
+    display: none;
+  }
+  .hero--section {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 70px;
+  }
+  .hero--section--title,
+  .hero--section-description,
+  .footer--content {
+    text-align: center;
+  }
+  
+  .portfolio--section--container,
+  .portfolio--container-box,
+  .footer--link--container,
+  .footer--items > ul,
+  .footer--content--container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .portfolio--container,
+  .hero--section--content,
+  .hero--section--content--box {
+    align-items: center;
+  }
+  .portfolio--container-box {
+    gap: 30px;
+  }
+  
+  
+  .contact--section,
+  .footer--container {
+    gap: 20px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  
+  .testimonial--section--card {
+    padding: 25px;
+  }
+  .hero--section--title,
+  
+  .hero--section--content--box {
+    gap: 10px;
+  }
+  .contact--form--container {
+    width: 100%;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .footer--social--icon > ul,
+  .footer--items > ul {
+    padding: 0;
+    align-items: center;
+  }
+  .divider {
+    margin: 20px;
+  }
+}
