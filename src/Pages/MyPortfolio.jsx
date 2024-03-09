@@ -131,7 +131,7 @@ export default function MyPortfolio() {
             <div className="portfolio--section--card--content">
               <div>
                 <h3 className="portfolio--section--title">Table Tennis Webscraper</h3>
-                <p className="text-md">Webcraper that scrapes table tennis websites for sales on products and outputs them in CSV and Excel file</p>
+                <p className="text-md">Python webcraper for table tennis websites that scrapes sales and outputs them in CSV and Excel file</p>
               </div>
               <p className="text-sm portfolio--link">
               <a className="arrow-button" href='https://github.com/james-yu2005/TableTennisWebscraper' target='_blank'>
@@ -161,8 +161,8 @@ export default function MyPortfolio() {
             </div>
             <div className="portfolio--section--card--content">
               <div>
-                <h3 className="portfolio--section--title">Diagnostic Test Analysis</h3>
-                <p className="text-md">C++ code to analyze true positive and true negative rate of data</p>
+                <h3 className="portfolio--section--title">Diagnostc Test Analysis</h3>
+                <p className="text-md">C++ program that calculates the true positive and true negative rate of different data</p>
               </div>
               <p className="text-sm portfolio--link">
               <a  className="arrow-button" href='https://github.com/james-yu2005/Diagnostic-test-analysis' target='_blank'>
@@ -193,7 +193,7 @@ export default function MyPortfolio() {
             <div className="portfolio--section--card--content">
               <div>
                 <h3 className="portfolio--section--title">Gooze Puzzle</h3>
-                <p className="text-md">3D modelled goose on Solidworks with printed parts and IKEA-style manual for easy assembly</p>
+                <p className="text-md">3D modelled goose on Solidworks with printed parts through and IKEA-style manual for easy assembly</p>
               </div>
               <p className="text-sm portfolio--link">
               <a className="arrow-button" href='https://github.com/james-yu2005/Goose-puzzle' target='_blank'>
