@@ -91,7 +91,8 @@
 .portfolio--container-box .section--heading{
   display: flex;
   text-align: center;
-  
+  margin-bottom: 134px;
+  margin-top: 100px;
 }
 
 .portfolio--section {
@@ -140,6 +141,7 @@
   height: 220px;
   border-radius: 12px;
   border: 1.2px solid rgb(133, 130, 130);
+  margin-top: -134px;
   
 }
 .portfolio--section--card {
@@ -162,7 +164,7 @@
   gap: 11px;
   align-self: stretch;
   font-size: 14px;
-  color:rgb(104, 103, 103);
+  color:rgb(186, 182, 182);
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin-left: 10px;
   margin-top: -30px;
@@ -177,8 +179,10 @@
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 600;
   margin-bottom: 12px;
-  
 
+}
+.text-md{
+  color: #7b7979;
 }
 .portfolio--link {
   text-decoration: none;
@@ -187,9 +191,11 @@
   
 }
 .portfolio--section--card:hover path {
-  stroke: mediumpurple;
+  stroke: rgb(143, 105, 218);
   margin-top: -20p;
 }
+
+
 /* Portfolio Ends */
 
 /* Skills Section Style */
@@ -248,7 +254,7 @@
   gap: 13px;
   border-radius: 10.6px;
   background: #fff;
-  box-shadow: 0 0 16px 0 rgba(147, 112,216, 0.5);
+  box-shadow: 0 0 16px 0 rgba(147, 112,216, 1);
 }
 .skills--section--card--content {
   display: flex;
@@ -264,12 +270,12 @@
   font-weight: 700;
   line-height: 45px;
   font-size: 18px;
-  color: rgb(148, 147, 147);
+  color: rgb(130, 128, 128);
 }
 .skills--section--description {
   font-weight: 400;
   font-size: 14px;
-  color:rgb(125, 124, 124);
+  color:#6f6c6c;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin-bottom: -200px;
   margin-top: -38px;
@@ -280,7 +286,7 @@
 /* About Me */
 .about--section {
   font-weight: 602;
-  font-size: 20px;
+  font-size: 21px;
   padding: 133.3px 85.3px;
   gap: 114.6px;
   margin-top: 100px;
@@ -296,9 +302,9 @@
   
 }
 .about--section .hero--section-description{
-  font-size: 1px;
+  font-size: 15px;
     font-weight: 500;
-    color: rgb(169, 169, 175);
+    color: rgb(116, 116, 120);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     
@@ -401,7 +407,7 @@ body {
   transform: translate(0%, 0%);
   width: 100%;
   height: 100%;
-  background: rgb(182, 181, 181);
+  background: rgb(176, 174, 174);
   border-radius: 10px;
   
 
@@ -411,7 +417,7 @@ body {
   transform: translate(10px, 10px);
   width: 35px;
   height: 35px;
-  background: #ffffff15;
+  background: rgb(182, 164, 217);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
   border-radius: 50px;
@@ -439,7 +445,7 @@ body {
 
 #blob{
   background-color: white;
-  height: 500px;
+  height: 650px;
   aspect-ratio: 1;
   position: absolute;
   left: 50%;
@@ -486,15 +492,10 @@ body {
   align-items: center;
   margin-top: 12px;
   border-radius: 10px;
-  color: rgb(194, 194, 203);
+  color: mediumpurple;
 }
 
-/* Experiences */
-.Experiences--header{
-  background-color: white;
-  color: gray;
 
-}
 
 @media only screen and (max-width: 1200px) {
   .btn-outline-primary {
