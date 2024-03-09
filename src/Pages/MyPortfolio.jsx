@@ -1,6 +1,6 @@
 import amode from '/public/static/images/amode.png'
 import disney from '/public/static/images/disney.png'
-import image from '/public/static/images/image.png'
+import image from '/public/static/images/design.png'
 export default function MyPortfolio() {
   return (
     <section className="portfolio--section" id="MyPortfolio">
