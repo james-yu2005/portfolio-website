@@ -1,6 +1,6 @@
-import uxui from '/public/static/images/uxui.png'
-import biotron from '/public/static/images/biotron.png'
-import rocket from '/public/static/images/rocket.png'
+import uxui from '/static/images/uxui.png'
+import biotron from '/static/images/biotron.png'
+import rocket from '/static/images/rocket.png'
 export default function Experience() {
   return (
     <section className="skills--section" id="Experience">
