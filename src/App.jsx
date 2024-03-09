@@ -5,13 +5,10 @@ import React from "react";
 import MyPortfolio from './Pages/MyPortfolio'
 import { WavyBackground } from "/src/components/ui/wavy-background";
 import AboutMe from './Pages/Aboutme';
-
 import Navbar from "./Pages/Navbar"
-
 import Contactme from './Pages/Contactme';
 import Experience from './Pages/Experience';
 import blob from '/src/components/ui/blob';
-
 
 
 function App() {
@@ -29,7 +26,7 @@ function App() {
         Hi, my name is James Yu
       </p>
       <p className="text-base md:text-lg mt-4 text-white font-normal inter-var text-center">
-        I'm currently a biomedical engineering student at the University of Waterloo who's interested in engineering solutions in medical research and full stack development
+        I'm a biomedical engineering student at the University of Waterloo who's interested in engineering solutions in medical research and full stack development
       </p>
     </WavyBackground>
     </div>
