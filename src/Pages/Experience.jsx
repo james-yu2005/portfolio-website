@@ -39,7 +39,7 @@ export default function Experience() {
               <img src={uxui} alt="Product Chain" />
             </div>
             <div className="skills--section--card--content">
-              <h3 className="skills--section--title">UX/UI Designer - TrueNorthTTC </h3>
+              <h3 className="skills--section--title">Front End Devloper - TrueNorthTTC </h3>
               <h4 className='Date'>(Jan. 2022 - Oct. 2022)</h4>
               <p className="skills--section--description">Developed and designed dynamic pages for table tennis club website with HTML/CSS</p>
             </div>
