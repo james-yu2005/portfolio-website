@@ -164,7 +164,7 @@ export default function MyPortfolio() {
             </div>
             <div className="portfolio--section--card--content">
               <div>
-                <h3 className="portfolio--section--title">Diagnostc Test Analysis</h3>
+                <h3 className="portfolio--section--title">Diagnostic Test Analysis</h3>
                 <p className="text-md">C++ program that calculates the true positive and true negative rate of different data</p>
               </div>
               <p className="text-sm portfolio--link">
@@ -195,7 +195,7 @@ export default function MyPortfolio() {
             </div>
             <div className="portfolio--section--card--content">
               <div>
-                <h3 className="portfolio--section--title">Gooze Puzzle</h3>
+                <h3 className="portfolio--section--title">Goose Puzzle</h3>
                 <p className="text-md">3D modelled goose on Solidworks with printed parts through and IKEA-style manual for easy assembly</p>
               </div>
               <p className="text-sm portfolio--link">
